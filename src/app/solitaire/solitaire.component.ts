@@ -60,6 +60,7 @@ restartGame() {
     if (win) {
       this.gameState = 'WON';
     }
+    
   }
 
   reset(): void {
